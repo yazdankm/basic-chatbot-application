@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Coinbase Advance Trading API returns \"Error: account not available\" when placing orders",
+        "link": "https://stackoverflow.com/questions/78726982/coinbase-advance-trading-api-returns-error-account-not-available-when-placing"
+    },
+    {
+        "question": "How do I log observations after reset in Stable_Baselines3?",
+        "link": "https://stackoverflow.com/questions/78726975/how-do-i-log-observations-after-reset-in-stable-baselines3"
+    },
+    {
+        "question": "Plotting polygon/shape/shadow on a python-ternary plot (matplotlib)?",
+        "link": "https://stackoverflow.com/questions/78726944/plotting-polygon-shape-shadow-on-a-python-ternary-plot-matplotlib"
+    },
+    {
+        "question": "Errors when using abstract methods in Python when calculating",
+        "link": "https://stackoverflow.com/questions/78726896/errors-when-using-abstract-methods-in-python-when-calculating"
+    },
+    {
+        "question": "Coding help involving matrix",
+        "link": "https://stackoverflow.com/questions/78726885/coding-help-involving-matrix"
+    },
+    {
+        "question": "holoviews how to set margin around a layout",
+        "link": "https://stackoverflow.com/questions/78726881/holoviews-how-to-set-margin-around-a-layout"
+    },
+    {
+        "question": "Google trends data using python",
+        "link": "https://stackoverflow.com/questions/78726864/google-trends-data-using-python"
+    },
+    {
+        "question": "In poetry lock [package.dependencies] section automatically gets removed",
+        "link": "https://stackoverflow.com/questions/78726859/in-poetry-lock-package-dependencies-section-automatically-gets-removed"
+    },
+    {
+        "question": "Get the Max value from a dataframe",
+        "link": "https://stackoverflow.com/questions/78726852/get-the-max-value-from-a-dataframe"
+    },
+    {
+        "question": "Virtual Environment Using Wrong Python Packages",
+        "link": "https://stackoverflow.com/questions/78726842/virtual-environment-using-wrong-python-packages"
+    },
+    {
+        "question": "Why floats which differ by one are not rounded to integers which differ by one? [duplicate]",
+        "link": "https://stackoverflow.com/questions/78726834/why-floats-which-differ-by-one-are-not-rounded-to-integers-which-differ-by-one"
+    },
+    {
+        "question": "GroupMe Push Setup",
+        "link": "https://stackoverflow.com/questions/78726827/groupme-push-setup"
+    },
+    {
+        "question": "Universal Kriging Accuracy with Strain Field",
+        "link": "https://stackoverflow.com/questions/78726825/universal-kriging-accuracy-with-strain-field"
+    },
+    {
+        "question": "A module that was compiled using NumPy 1.x cannot be run in NumPy 2.0.0 as it may crash, however I have NumPy 1.26.4 installed",
+        "link": "https://stackoverflow.com/questions/78726800/a-module-that-was-compiled-using-numpy-1-x-cannot-be-run-in-numpy-2-0-0-as-it-ma"
+    },
+    {
+        "question": "Python fastapi asyncio or threading + multiprocessing, which is better approach",
+        "link": "https://stackoverflow.com/questions/78726790/python-fastapi-asyncio-or-threading-multiprocessing-which-is-better-approach"
+    },
+    {
+        "question": "A Python (ideally 3.8) Equivalent to IDL's TS_Smooth Function [duplicate]",
+        "link": "https://stackoverflow.com/questions/78726787/a-python-ideally-3-8-equivalent-to-idls-ts-smooth-function"
+    },
+    {
+        "question": "Flet - Dropdown in DataCell",
+        "link": "https://stackoverflow.com/questions/78726777/flet-dropdown-in-datacell"
+    },
+    {
+        "question": "Create dynamic key from given variables [closed]",
+        "link": "https://stackoverflow.com/questions/78726776/create-dynamic-key-from-given-variables"
+    },
+    {
+        "question": "Cannot find multibyte strings with Bitstring's findall() [closed]",
+        "link": "https://stackoverflow.com/questions/78726762/cannot-find-multibyte-strings-with-bitstrings-findall"
+    },
+    {
+        "question": "Problem with pytest and importing modules",
+        "link": "https://stackoverflow.com/questions/78726761/problem-with-pytest-and-importing-modules"
+    },
+    {
+        "question": "Computer Vision, Extrinsic calibration. Determining the camera pose of a number of cameras using OpenCV, SfM(custom) and Python",
+        "link": "https://stackoverflow.com/questions/78726759/computer-vision-extrinsic-calibration-determining-the-camera-pose-of-a-number"
+    },
+    {
+        "question": "How to install packages using `uv pip install` without creating virtual environment in CI/CD pipeline?",
+        "link": "https://stackoverflow.com/questions/78726750/how-to-install-packages-using-uv-pip-install-without-creating-virtual-environm"
+    },
+    {
+        "question": "Tensorflow model trained on MNIST dataset gives low accuracy on own test images",
+        "link": "https://stackoverflow.com/questions/78726737/tensorflow-model-trained-on-mnist-dataset-gives-low-accuracy-on-own-test-images"
+    },
+    {
+        "question": "Python environment Problems",
+        "link": "https://stackoverflow.com/questions/78726727/python-environment-problems"
+    },
+    {
+        "question": "Error using import in Python (automatic execution during import) [closed]",
+        "link": "https://stackoverflow.com/questions/78726713/error-using-import-in-python-automatic-execution-during-import"
+    },
+    {
+        "question": "Why isn't the table values showing even tho I have the correct routing for it?",
+        "link": "https://stackoverflow.com/questions/78726686/why-isnt-the-table-values-showing-even-tho-i-have-the-correct-routing-for-it"
+    },
+    {
+        "question": "Python - Interpolate y-value given x-value and data value in a 2D array",
+        "link": "https://stackoverflow.com/questions/78726677/python-interpolate-y-value-given-x-value-and-data-value-in-a-2d-array"
+    },
+    {
+        "question": "Print API objects on response with asyncio",
+        "link": "https://stackoverflow.com/questions/78726656/print-api-objects-on-response-with-asyncio"
+    },
+    {
+        "question": "Can't use tuples with a 0 as the second variable in a tuple-enum in Python [closed]",
+        "link": "https://stackoverflow.com/questions/78726655/cant-use-tuples-with-a-0-as-the-second-variable-in-a-tuple-enum-in-python"
+    },
+    {
+        "question": "2 approaches to a same problem give different results [duplicate]",
+        "link": "https://stackoverflow.com/questions/78726642/2-approaches-to-a-same-problem-give-different-results"
+    },
+    {
+        "question": "SQL FetchMany in the middle",
+        "link": "https://stackoverflow.com/questions/78726599/sql-fetchmany-in-the-middle"
+    },
+    {
+        "question": "ModuleNotFoundError: No module named 'pyzipper'",
+        "link": "https://stackoverflow.com/questions/78726595/modulenotfounderror-no-module-named-pyzipper"
+    },
+    {
+        "question": "Need solution to resolve this error:huey.exceptions.HueyException: task not found in TaskRegistry",
+        "link": "https://stackoverflow.com/questions/78726588/need-solution-to-resolve-this-errorhuey-exceptions-hueyexception-task-not-foun"
+    },
+    {
+        "question": "Filtering JSON Field in PostgreSQL with SQLAlchemy",
+        "link": "https://stackoverflow.com/questions/78726561/filtering-json-field-in-postgresql-with-sqlalchemy"
+    },
+    {
+        "question": "Creating a button with an image in but the button hitbox is too large",
+        "link": "https://stackoverflow.com/questions/78726560/creating-a-button-with-an-image-in-but-the-button-hitbox-is-too-large"
+    },
+    {
+        "question": "How to override Django Two Factor Authorization default login success response",
+        "link": "https://stackoverflow.com/questions/78726558/how-to-override-django-two-factor-authorization-default-login-success-response"
+    },
+    {
+        "question": "How to realize a many-to-many (m:n) relationship in two tables with PYQT6 and SQLite",
+        "link": "https://stackoverflow.com/questions/78726540/how-to-realize-a-many-to-many-mn-relationship-in-two-tables-with-pyqt6-and-sq"
+    },
+    {
+        "question": "AssertionError: Unexpected kwargs: {'use_flash_attention_2': False}",
+        "link": "https://stackoverflow.com/questions/78726534/assertionerror-unexpected-kwargs-use-flash-attention-2-false"
+    },
+    {
+        "question": "Swagger API : should not accept Null",
+        "link": "https://stackoverflow.com/questions/78726520/swagger-api-should-not-accept-null"
+    },
+    {
+        "question": "Twilio conversations group SMS not working",
+        "link": "https://stackoverflow.com/questions/78726515/twilio-conversations-group-sms-not-working"
+    },
+    {
+        "question": "A good way of managing connections and cursors with Python using the MariaDB Connector/Python?",
+        "link": "https://stackoverflow.com/questions/78726500/a-good-way-of-managing-connections-and-cursors-with-python-using-the-mariadb-con"
+    },
+    {
+        "question": "Brainstorming Python Selenium WebDriver UseCase with SSO",
+        "link": "https://stackoverflow.com/questions/78726490/brainstorming-python-selenium-webdriver-usecase-with-sso"
+    },
+    {
+        "question": "How to convert a python character to a python object [duplicate]",
+        "link": "https://stackoverflow.com/questions/78726485/how-to-convert-a-python-character-to-a-python-object"
+    },
+    {
+        "question": "How do I stitch two screenshots without any overlap?",
+        "link": "https://stackoverflow.com/questions/78726481/how-do-i-stitch-two-screenshots-without-any-overlap"
+    },
+    {
+        "question": "Correctly handle rate limit sleep time in Github",
+        "link": "https://stackoverflow.com/questions/78726478/correctly-handle-rate-limit-sleep-time-in-github"
+    },
+    {
+        "question": "How to ignore a specific breakpoint interactively?",
+        "link": "https://stackoverflow.com/questions/78726475/how-to-ignore-a-specific-breakpoint-interactively"
+    },
+    {
+        "question": "Blocked:mixed-content problem when using docker containers",
+        "link": "https://stackoverflow.com/questions/78726453/blockedmixed-content-problem-when-using-docker-containers"
+    },
+    {
+        "question": "I have a CSV file where the dates are in their own row, and I need them to be in Column A [closed]",
+        "link": "https://stackoverflow.com/questions/78726446/i-have-a-csv-file-where-the-dates-are-in-their-own-row-and-i-need-them-to-be-in"
+    },
+    {
+        "question": "ImportError: DLL load failed while importing cv2: The specified module could not be found when \"import fiftyone\" and \"import cv2\"",
+        "link": "https://stackoverflow.com/questions/78726437/importerror-dll-load-failed-while-importing-cv2-the-specified-module-could-not"
+    },
+    {
+        "question": "os.environ different between console and vscode",
+        "link": "https://stackoverflow.com/questions/78726432/os-environ-different-between-console-and-vscode"
+    }
+]
